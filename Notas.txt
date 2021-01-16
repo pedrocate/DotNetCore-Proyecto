@@ -1,0 +1,9 @@
+EntityFrameworkCore puede hacer interfaces con sql server, mysql incluso MongoDb as� que hay que incluir el paquete Microsoft.EntityFrameworkCore.SqlServer
+Un DbContext corresponde a tu base de datos, a la representaci�n de la bbdd y por tanto tiene acceso a las tablas, vistas...
+Consultar las distintas variantes:
+    -Eager Loading
+    -Explicit Loading
+    -Select Loading
+    -Lazy Loading
+
+Usar Anotaciones o librerías como Fluent para las validaciones de datos que vienen del front. Para validaciones en el back como por ejemplo comprobar si existe un id de la request usar Middlewares
