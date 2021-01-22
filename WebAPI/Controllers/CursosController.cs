@@ -4,6 +4,7 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Dominio;
 using Aplicacion.Cursos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebAPI.Controllers
 {

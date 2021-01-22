@@ -7,3 +7,5 @@ Consultar las distintas variantes:
     -Lazy Loading
 
 Usar Anotaciones o librerías como Fluent para las validaciones de datos que vienen del front. Para validaciones en el back como por ejemplo comprobar si existe un id de la request usar Middlewares
+
+Si se coloca la anotación [Authorize] de la librería using Microsoft.AspNetCore.Authorization; en un endpoint estaremos activando el middleware de autorización que añadimos como servicio en el ConfigureServices

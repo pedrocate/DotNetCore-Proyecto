@@ -1,10 +1,12 @@
 using System.Threading.Tasks;
 using Aplicacion.Seguridad;
 using Dominio;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers
 {
+    [AllowAnonymous]
     public class UsuarioController : MiControllerBase
     {
         [HttpPost("login")]
@@ -13,5 +15,15 @@ namespace WebAPI.Controllers
             return await Mediator.Send(parametros);
         }
 
+        [HttpPost("registrar")]
+        public async Task<ActionResult<UsuarioData>> Registrar(Registrar.Ejecuta parametros)
+        {
+            return await Mediator.Send(parametros);
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<UsuarioData>> DevolverUsuario() {
+            return await Mediator.Send(new UsuarioActual.Ejecuta());
+        }
     }
 }
