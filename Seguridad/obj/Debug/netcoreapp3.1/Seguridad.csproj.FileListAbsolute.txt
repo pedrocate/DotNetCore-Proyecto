@@ -1,7 +1,3 @@
-C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csprojAssemblyReference.cache
-C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
-C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
-C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.deps.json
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.dll
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.pdb
@@ -11,6 +7,10 @@ C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Pe
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.pdb
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Dominio.pdb
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csprojAssemblyReference.cache
+C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
+C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
+C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CopyComplete
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.dll
 C:\Users\pedro.catedra\Desktop\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.pdb
